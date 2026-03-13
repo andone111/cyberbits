@@ -1,6 +1,6 @@
 ---
 title: ws priv escalation methods
-date: 2026-03-14
+date: 2026-03-13
 ---
 The posts resumes the most important 3 aws priv escalation methods:
 -Hunting Leaked IAM Keys and Gaining Persistence with Federation Tokens
