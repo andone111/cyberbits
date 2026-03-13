@@ -1,5 +1,5 @@
 ---
-title: Mi primer post
+title: azure priv esc
 date: 2026-03-13
 ---
 
