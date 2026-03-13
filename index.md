@@ -1,1 +1,3 @@
-Esta es la primera entrada
+---
+layout: home
+---
