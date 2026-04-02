@@ -1,3 +1,4 @@
 theme: minima
 title: Cyberbits
 description: A small blog to cover small cyberbits.
+baseurl = "/cyberbits"
